@@ -47,7 +47,4 @@ If you use this dataset in your research or project, please cite the original so
 ## Contributing
 
 Contributions such as bug fixes, improvements, or additional analyses are welcome. Please fork the repository, make your changes, and submit a pull request.
-(
-## Contact
 
-For questions or issues regarding the dataset or repository, please contact me via [email](muhumukip@gmail.com).
