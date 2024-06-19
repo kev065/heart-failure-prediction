@@ -1,0 +1,13 @@
+# Ignore all directories (folders)
+*/
+
+# Allow specific files and folders at the root level
+!.gitignore
+!LICENSE
+!README.md
+!*.ipynb
+
+# Ignore other files (if needed)
+# Add patterns to ignore specific files or types, e.g.,
+ *.log
+ *.csv
